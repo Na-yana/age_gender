@@ -1,0 +1,12 @@
+.carousel-item {
+  background-position: center;
+  height: 600px;
+}
+
+
+.carousel-item{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 100px;
+}
